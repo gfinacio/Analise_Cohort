@@ -1,7 +1,7 @@
 
-# 📊 Análise de Cohortem Excel
+# 📊 Análise de Cohort Excel
 
-Este projeto tem como objetivo realizar uma análise de coorte para avaliar a retenção de clientes ao longo do tempo. A análise foi realizada utilizando o Microsoft Excel, com base em um conjunto de dados simulados de uma empresa SaaS.
+Este projeto tem como objetivo realizar uma análise de cohort para avaliar a retenção de clientes ao longo do tempo. A análise foi realizada utilizando o Microsoft Excel, com base em um conjunto de dados simulados de uma empresa SaaS.
 
 ## 📌 O que foi feito
 
@@ -18,7 +18,7 @@ Este projeto tem como objetivo realizar uma análise de coorte para avaliar a re
 
 ## 📁 Arquivos
 
-- [Planejamento_Cohort.pdf](https://github.com/user-attachments/files/21675552/Planejamento_Cohort.pdf)
+- [Planejamento_Cohort.pdf](https://github.com/user-attachments/files/21675552/Planejamento_Cohort.pdf) → Planejamento do projeto
 - `Cohort_Analysis.xlsx` → Planilha com toda a análise
 - `imagens/heatmap_retencao.png` → Exemplo da visualização criada
 
@@ -30,4 +30,4 @@ Este projeto tem como objetivo realizar uma análise de coorte para avaliar a re
 ## 👨‍💻 Autor
 
 Gabriel Inácio  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) · [GitHub](https://github.com/seu-usuario)
+[LinkedIn](www.linkedin.com/in/gabriel-farias-inácio-765155267) · [GitHub](https://github.com/seu-usuario)
