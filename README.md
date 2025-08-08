@@ -5,7 +5,7 @@ Este projeto tem como objetivo realizar uma análise de cohort para avaliar a re
 
 ## 📌 O que foi feito
 
-- Agrupamento de usuários por mês de aquisição (coorte)
+- Agrupamento de usuários por mês de aquisição (cohort)
 - Cálculo da taxa de retenção mensal
 - Criação de tabela dinâmica com formato de matriz
 - Visualização de retenção com formatação condicional (heatmap)
@@ -30,4 +30,4 @@ Este projeto tem como objetivo realizar uma análise de cohort para avaliar a re
 ## 👨‍💻 Autor
 
 Gabriel Inácio  
-[LinkedIn](www.linkedin.com/in/gabriel-farias-inácio-765155267) · [GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/gabriel-farias-in%C3%A1cio-765155267/) · [GitHub](https://github.com/seu-usuario)
