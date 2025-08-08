@@ -30,4 +30,4 @@ Este projeto tem como objetivo realizar uma análise de cohort para avaliar a re
 ## 👨‍💻 Autor
 
 Gabriel Inácio  
-[LinkedIn](https://www.linkedin.com/in/gabriel-farias-in%C3%A1cio-765155267/) · [GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/gabriel-farias-in%C3%A1cio-765155267/) · [GitHub](√)
